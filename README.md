@@ -1,0 +1,2 @@
+# Django-REST-API-for-Managing-Vendors-Products-Courses-and-Certifications
+This project develops a RESTful API using the Django REST Framework to manage vendors, products, courses, and certifications. It enables efficient CRUD operations, secure authentication, and structured data handling. The API supports scalable backend services for platforms that organize vendor information and learning resources.
